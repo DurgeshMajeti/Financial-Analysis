@@ -1,10 +1,10 @@
 # Financial-Analysis
 A little data analysis is done on Stocks and Quants.
 
-##Task 1:
+## Task 1:
 Collect Nifty OHLC data for past 3 years and do analysis on it.
 
-
+## Task 2:
 Pick up 5 sectors and perform sectoral analysis.
 
 The sectors chosen are:
@@ -14,8 +14,8 @@ The sectors chosen are:
 4. NIFTY FMCG
 5. NIFTY METAL
 
-
+## Task 3:
 Take 10 different stocks and perform analysis on them
 
 
-The visualization is done using plotly
+#### The visualization is done using plotly
